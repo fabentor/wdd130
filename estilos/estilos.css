@@ -4,7 +4,7 @@ main {
 
 nav {
     background-color: steelblue;
-    padding: auto;
+    padding: 10px;
 }
 
 nav a {
